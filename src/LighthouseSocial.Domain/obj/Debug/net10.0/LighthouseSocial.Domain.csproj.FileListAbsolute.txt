@@ -1,0 +1,11 @@
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\bin\Debug\net10.0\LighthouseSocial.Domain.deps.json
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\bin\Debug\net10.0\LighthouseSocial.Domain.dll
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\bin\Debug\net10.0\LighthouseSocial.Domain.pdb
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.AssemblyInfoInputs.cache
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.AssemblyInfo.cs
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.dll
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\refint\LighthouseSocial.Domain.dll
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\LighthouseSocial.Domain.pdb
+C:\Projects\project-lighthouse-social\src\LighthouseSocial.Domain\obj\Debug\net10.0\ref\LighthouseSocial.Domain.dll
